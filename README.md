@@ -14,9 +14,8 @@
 ## Output-mis File:
 >> MIS_KOS.csv: Frequent 2-itemset generation of KOS dataset with alpha=0.2,lmbda=3,phi=0.1
 
->> nips_3_0.5.csv: Frequent 3-itemset generation of NIPS dataset with min_sup=0.5
+>> nips_3_0.5.csv: Frequent 2-itemset generation of NIPS dataset with alpha=0.2,lmbda=3,phi=0.1
 
->> enron_3_0.02.csv: Frequent 3-itemset generation of ENRON dataset with min_sup=0.02
 
 
 
