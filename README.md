@@ -5,7 +5,7 @@
 > Prince Kumar(MDS201923)
 
 # Output File:
->kos_2_0.2.csv: Frequent 2-itemset generation with min_sup=0.2
+>> kos_2_0.2.csv: Frequent 2-itemset generation with min_sup=0.2
 
 
 
