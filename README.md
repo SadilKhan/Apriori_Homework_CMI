@@ -4,7 +4,19 @@
 
 > Prince Kumar(MDS201923)
 
-The Task
+# Output File:
+>kos_2_0.2.csv: Frequent 2-itemset generation with min_sup=0.2
+
+
+
+
+
+
+
+
+
+
+# The Task
 
 The "Bag of Words" data set from the UCI Machine Learning Repository contains five text collections in the form of bags-of-words. The URL for the UCI repository is http://archive.ics.uci.edu/ml/datasets/Bag+of+Words.
 
@@ -17,7 +29,7 @@ Your task is to compute frequent itemsets for this data.
     For this part, skip the Enron email dataset and work only with the NIPS full papers and KOS blog entries datasets.
     
     
-The Data
+# The Data
 
 In each of the text collections, each document is summarized as a bag (multiset) of words. The individual documents are identified by document IDs and the words are identified by word IDs.
 
