@@ -1,0 +1,27 @@
+support,itemsets,length
+0.21807580174927113,"frozenset({'bush', 'administration'})",2
+0.2731778425655977,"frozenset({'democratic', 'bush'})",2
+0.2282798833819242,"frozenset({'bush', 'democrats'})",2
+0.22332361516034985,"frozenset({'bush', 'election'})",2
+0.36443148688046645,"frozenset({'general', 'bush'})",2
+0.25451895043731776,"frozenset({'house', 'bush'})",2
+0.34839650145772594,"frozenset({'kerry', 'bush'})",2
+0.21020408163265306,"frozenset({'bush', 'media'})",2
+0.2553935860058309,"frozenset({'poll', 'bush'})",2
+0.24314868804664724,"frozenset({'president', 'bush'})",2
+0.2314868804664723,"frozenset({'republicans', 'bush'})",2
+0.21166180758017492,"frozenset({'time', 'bush'})",2
+0.2897959183673469,"frozenset({'war', 'bush'})",2
+0.21574344023323616,"frozenset({'democratic', 'democrats'})",2
+0.22244897959183674,"frozenset({'general', 'democratic'})",2
+0.20204081632653062,"frozenset({'democratic', 'house'})",2
+0.26880466472303205,"frozenset({'democratic', 'kerry'})",2
+0.22011661807580174,"frozenset({'poll', 'democratic'})",2
+0.2606413994169096,"frozenset({'democratic', 'primary'})",2
+0.20845481049562684,"frozenset({'general', 'election'})",2
+0.31020408163265306,"frozenset({'general', 'kerry'})",2
+0.22040816326530613,"frozenset({'general', 'poll'})",2
+0.21720116618075802,"frozenset({'general', 'war'})",2
+0.24635568513119532,"frozenset({'poll', 'kerry'})",2
+0.20262390670553937,"frozenset({'kerry', 'primary'})",2
+0.2,"frozenset({'war', 'kerry'})",2
