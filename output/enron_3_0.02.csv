@@ -1,0 +1,5 @@
+support,itemsets,length
+0.021297759054473113,"frozenset({'receive', 'offer', 'click'})",3
+0.020127552513018548,"frozenset({'offer', 'special', 'click'})",3
+0.020361593821309462,"frozenset({'receive', 'offer', 'message'})",3
+0.020888186764964015,"frozenset({'receive', 'offer', 'special'})",3
