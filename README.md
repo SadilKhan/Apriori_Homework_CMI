@@ -9,7 +9,7 @@
 
 >> nips_3_0.5.csv: Frequent 3-itemset generation of NIPS dataset with min_sup=0.5
 
->> kos_3_0.02.csv: Frequent 3-itemset generation of ENRON dataset with min_sup=0.02
+>> enron_3_0.02.csv: Frequent 3-itemset generation of ENRON dataset with min_sup=0.02
 
 
 
@@ -27,5 +27,26 @@ Your task is to compute frequent itemsets for this data.
     
     
 ## Approach
+
+#### Task 1
+We at first created a function called DatasetGeneration which will return a dataframe with docid,wordid,count and words
+and then we used pandas groupby function to generate transaction-style list of lists.
+Then we used mlxtend library in python and created frequent k-itemset using apriori algorithm.
+
+#### Task 2
+
+We wrote the code of Multiple Minimum Support from scratch by using the algorithm presented in "Section 2.4 of the book Web Data Mining by Bing Liu". In the algorithm due to resource limitation we will consider those items whose support is greater than alpha, 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
