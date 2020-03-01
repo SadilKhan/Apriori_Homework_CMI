@@ -1,4 +1,8 @@
 # Apriori_Homework_CMI
+# Project Group:
+> Md.Sadil Khan(MDS201927)
+> Prince Kumar(MDS201923)
+
 The Task
 
 The "Bag of Words" data set from the UCI Machine Learning Repository contains five text collections in the form of bags-of-words. The URL for the UCI repository is http://archive.ics.uci.edu/ml/datasets/Bag+of+Words.
