@@ -11,6 +11,13 @@
 
 >> enron_3_0.02.csv: Frequent 3-itemset generation of ENRON dataset with min_sup=0.02
 
+## Output-mis File:
+>> MIS_KOS.csv: Frequent 2-itemset generation of KOS dataset with alpha=0.2,lmbda=3,phi=0.1
+
+>> nips_3_0.5.csv: Frequent 3-itemset generation of NIPS dataset with min_sup=0.5
+
+>> enron_3_0.02.csv: Frequent 3-itemset generation of ENRON dataset with min_sup=0.02
+
 
 
 ## The Task
@@ -35,7 +42,9 @@ Then we used mlxtend library in python and created frequent k-itemset using apri
 
 #### Task 2
 
-We wrote the code of Multiple Minimum Support from scratch by using the algorithm presented in "Section 2.4 of the book Web Data Mining by Bing Liu". In the algorithm due to resource limitation we will consider those items whose support is greater than alpha, 
+We wrote the code of Multiple Minimum Support from scratch by using the algorithm presented in "Section 2.4 of the book Web Data Mining by Bing Liu". In the algorithm due to resource limitation we will consider those items whose supports are greater than alpha.
+lmbda is a parmeter that takes a value between 0 and 1
+phi is maximum support difference.
 
 
 
